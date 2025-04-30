@@ -1,152 +1,152 @@
 [[aws_c_mqtt]]
 arch = "aarch64"
-git-tree-sha1 = "72651555b4b8cb64b45616e02a0657481b2dfaae"
+git-tree-sha1 = "e3c4df74b4afeecc03c836038c2e4342dab93d3f"
 os = "macos"
 
     [[aws_c_mqtt.download]]
-    sha256 = "c56412713b4b74756207d83f074129a5dd089f9970d94e7fd11ac3eb0b2c11c5"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_mqtt_jll.jl/releases/download/aws_c_mqtt-v0.12.3+0/aws_c_mqtt.v0.12.3.aarch64-apple-darwin.tar.gz"
+    sha256 = "fdd2f646c80794c7d824b7c7429ee5c370ef2b0114c2e1eb59a8959f0b92dba9"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_mqtt_jll.jl/releases/download/aws_c_mqtt-v0.13.0+0/aws_c_mqtt.v0.13.0.aarch64-apple-darwin.tar.gz"
 [[aws_c_mqtt]]
 arch = "aarch64"
-git-tree-sha1 = "48b2580cff90f0f9c48bc6b7826e90a8ff951211"
+git-tree-sha1 = "1ce1618b47ec2fddc46e8510b36fcc9d6c310d60"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_mqtt.download]]
-    sha256 = "3113da0babe11aad0954a434b8cc41b3f4146d4162237495ffa88774910e004b"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_mqtt_jll.jl/releases/download/aws_c_mqtt-v0.12.3+0/aws_c_mqtt.v0.12.3.aarch64-linux-gnu.tar.gz"
+    sha256 = "4c8dee86cd66b52977ba70d997dd47c672a19bbfc8d5589089108a8603d31d6e"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_mqtt_jll.jl/releases/download/aws_c_mqtt-v0.13.0+0/aws_c_mqtt.v0.13.0.aarch64-linux-gnu.tar.gz"
 [[aws_c_mqtt]]
 arch = "aarch64"
-git-tree-sha1 = "fe1eb9687da638a3930b3e9e48f5e6fc2936dbe5"
+git-tree-sha1 = "a5075afd02a09b34012b097d224988441542f739"
 libc = "musl"
 os = "linux"
 
     [[aws_c_mqtt.download]]
-    sha256 = "73fab249e120c314838922816cb2d161c0bab48179798e9d32d2ef9a58416128"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_mqtt_jll.jl/releases/download/aws_c_mqtt-v0.12.3+0/aws_c_mqtt.v0.12.3.aarch64-linux-musl.tar.gz"
+    sha256 = "9c2f76c19079018cd7a7004d8cd1e96e725a66f6b73667034dee15d4fd3a5580"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_mqtt_jll.jl/releases/download/aws_c_mqtt-v0.13.0+0/aws_c_mqtt.v0.13.0.aarch64-linux-musl.tar.gz"
 [[aws_c_mqtt]]
 arch = "aarch64"
-git-tree-sha1 = "8a94b01988f284c5edb1133d7a173aeef0c06f7b"
+git-tree-sha1 = "73041ff76db937564b583d0fce54b8117649821d"
 os = "freebsd"
 
     [[aws_c_mqtt.download]]
-    sha256 = "8bd978361cc4448eb3dcbc98f2317a976954d1806ebfb3c1a55c7288423b20b5"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_mqtt_jll.jl/releases/download/aws_c_mqtt-v0.12.3+0/aws_c_mqtt.v0.12.3.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "6d5720fee628849ba47d3ba357128288dcee9e0af82854907adca49e969b35b5"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_mqtt_jll.jl/releases/download/aws_c_mqtt-v0.13.0+0/aws_c_mqtt.v0.13.0.aarch64-unknown-freebsd.tar.gz"
 [[aws_c_mqtt]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "444f1d338369df913203c9f29f2434feff9af15c"
+git-tree-sha1 = "dd55e4d4267c27f575cbbc76d2ad48e1f794b611"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_mqtt.download]]
-    sha256 = "e490a13e8ff7fb8cbb864907fdb1616654cad8a3a26724f91b6a97b9f538957f"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_mqtt_jll.jl/releases/download/aws_c_mqtt-v0.12.3+0/aws_c_mqtt.v0.12.3.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "58135b1f0bab24ebff28c228e743853182589387157fb4a868b2f82e6b92ec6a"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_mqtt_jll.jl/releases/download/aws_c_mqtt-v0.13.0+0/aws_c_mqtt.v0.13.0.armv6l-linux-gnueabihf.tar.gz"
 [[aws_c_mqtt]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "0d0e89dc4a78786ff559317bfb6f4f789645331d"
+git-tree-sha1 = "e7c16fd866d2ad21448e086d20f35f641f62d7eb"
 libc = "musl"
 os = "linux"
 
     [[aws_c_mqtt.download]]
-    sha256 = "4375302e366adf145d0c2c1f6775ca965592c2cd80b647d12259f1154a14f4c3"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_mqtt_jll.jl/releases/download/aws_c_mqtt-v0.12.3+0/aws_c_mqtt.v0.12.3.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "daafb86bdf8e51aa37ea8107aef67acd0372fb23455d63a57d924439e899c1b3"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_mqtt_jll.jl/releases/download/aws_c_mqtt-v0.13.0+0/aws_c_mqtt.v0.13.0.armv6l-linux-musleabihf.tar.gz"
 [[aws_c_mqtt]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "4a2200f66018cfc1f126b3d0688955156a81172d"
+git-tree-sha1 = "0bebc041e14c60e23a4b425f95a4f56975e683be"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_mqtt.download]]
-    sha256 = "354e37417d5ee17273f3282c7c9d72abcf2eb34ec58bfbfb34f9a64910e4952c"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_mqtt_jll.jl/releases/download/aws_c_mqtt-v0.12.3+0/aws_c_mqtt.v0.12.3.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "c1f0068eb9fa1f6b8d5a2a01096fadcedad11fdbc6899fd9a9ade8465d7019b0"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_mqtt_jll.jl/releases/download/aws_c_mqtt-v0.13.0+0/aws_c_mqtt.v0.13.0.armv7l-linux-gnueabihf.tar.gz"
 [[aws_c_mqtt]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "f023366a4da0d4dcacd523cb9d212e82f17c4c97"
+git-tree-sha1 = "d2e9163a1afbea370aa9d907905826278dddbe55"
 libc = "musl"
 os = "linux"
 
     [[aws_c_mqtt.download]]
-    sha256 = "c7390e42ad4a5a0bd755a7363512c2fafae918007a010c81a0d8c7b6ca1b4e04"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_mqtt_jll.jl/releases/download/aws_c_mqtt-v0.12.3+0/aws_c_mqtt.v0.12.3.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "439607297476a039f5ce10c7d3250bbb2ed1c7ded5398fa0c2f14e85659d35df"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_mqtt_jll.jl/releases/download/aws_c_mqtt-v0.13.0+0/aws_c_mqtt.v0.13.0.armv7l-linux-musleabihf.tar.gz"
 [[aws_c_mqtt]]
 arch = "i686"
-git-tree-sha1 = "ce64e137fc8dd857408ba2b1b07e9a5b155fc360"
+git-tree-sha1 = "c5d0b68f466a43f4180883eef1a8c79e02caecc2"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_mqtt.download]]
-    sha256 = "c27db4e717d384a3becc656a0a7bb056187170d2b7c2225922db341f4bf7dae0"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_mqtt_jll.jl/releases/download/aws_c_mqtt-v0.12.3+0/aws_c_mqtt.v0.12.3.i686-linux-gnu.tar.gz"
+    sha256 = "7f1f2840841e01506d120a050f6d0e460ab09b64f2ef73613783f31dc1bb0f94"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_mqtt_jll.jl/releases/download/aws_c_mqtt-v0.13.0+0/aws_c_mqtt.v0.13.0.i686-linux-gnu.tar.gz"
 [[aws_c_mqtt]]
 arch = "i686"
-git-tree-sha1 = "743cc1a15f83cf56550734daf3fda9428f7d0c04"
+git-tree-sha1 = "37eac626e7dc866702db3443d6efe79e9d75c3a5"
 libc = "musl"
 os = "linux"
 
     [[aws_c_mqtt.download]]
-    sha256 = "f2b779a10b7990127237fe1b8cbabffd52803f8b95c2d772ebce6be7af2faf52"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_mqtt_jll.jl/releases/download/aws_c_mqtt-v0.12.3+0/aws_c_mqtt.v0.12.3.i686-linux-musl.tar.gz"
+    sha256 = "02607353340739d10e2a6ebabe6204e833b3b7ba637cbb4a494fe51b8602608b"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_mqtt_jll.jl/releases/download/aws_c_mqtt-v0.13.0+0/aws_c_mqtt.v0.13.0.i686-linux-musl.tar.gz"
 [[aws_c_mqtt]]
 arch = "powerpc64le"
-git-tree-sha1 = "a46dd55830266e43bb7500cc4ecec36853918b99"
+git-tree-sha1 = "37d21b642d06b3f4691b0ba5adad583606ec6884"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_mqtt.download]]
-    sha256 = "1e45fe9a74dee90a514af5421e7631af1ed7bf2d8972682f189469baebf8bcaf"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_mqtt_jll.jl/releases/download/aws_c_mqtt-v0.12.3+0/aws_c_mqtt.v0.12.3.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "b93cab324fead0f96adddd53bc884674722141c9dac5021ad1a29a3dac61e825"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_mqtt_jll.jl/releases/download/aws_c_mqtt-v0.13.0+0/aws_c_mqtt.v0.13.0.powerpc64le-linux-gnu.tar.gz"
 [[aws_c_mqtt]]
 arch = "riscv64"
-git-tree-sha1 = "aee2031ad27e8b6988422888d244b5cec366d962"
+git-tree-sha1 = "5f2398f326c57a99a3664f77e35c27e111b07d1b"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_mqtt.download]]
-    sha256 = "18959fafdf78f94858545b4758addc94e49d315478406e9a369736415f816e29"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_mqtt_jll.jl/releases/download/aws_c_mqtt-v0.12.3+0/aws_c_mqtt.v0.12.3.riscv64-linux-gnu.tar.gz"
+    sha256 = "eca3606dd9b8c019b9d7895880d2c41a499abc120941711cfa4ebeb160e4b224"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_mqtt_jll.jl/releases/download/aws_c_mqtt-v0.13.0+0/aws_c_mqtt.v0.13.0.riscv64-linux-gnu.tar.gz"
 [[aws_c_mqtt]]
 arch = "x86_64"
-git-tree-sha1 = "2e7680d80333045500b39cc02a2590ca3155fa6e"
+git-tree-sha1 = "062d733be32e7cf81ead9095761864d5bf1fd693"
 os = "macos"
 
     [[aws_c_mqtt.download]]
-    sha256 = "d673daa06258676da9a339d6855c21801171b4c32b2bc635c3c83644924eb5be"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_mqtt_jll.jl/releases/download/aws_c_mqtt-v0.12.3+0/aws_c_mqtt.v0.12.3.x86_64-apple-darwin.tar.gz"
+    sha256 = "61baa3f0cd0fc34b1ddfd4ee7db84ae8e7eacd12c0f3e39ccbdfeef736729d2a"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_mqtt_jll.jl/releases/download/aws_c_mqtt-v0.13.0+0/aws_c_mqtt.v0.13.0.x86_64-apple-darwin.tar.gz"
 [[aws_c_mqtt]]
 arch = "x86_64"
-git-tree-sha1 = "66e72d06c6337e8750eb9d7e0d3bf6191038c9c5"
+git-tree-sha1 = "97101e1f8cf98ac0ad44d9dab01ef990a8cb41e3"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_mqtt.download]]
-    sha256 = "5fe8f1e513c3c99a1d3b0a5e760d77a8f833a1dc55cb1f1afb9ac1a05694fbe5"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_mqtt_jll.jl/releases/download/aws_c_mqtt-v0.12.3+0/aws_c_mqtt.v0.12.3.x86_64-linux-gnu.tar.gz"
+    sha256 = "2e7f035209e64b801b3c5f9c35ea3a10c0ace9b39673fa6bd5f5c1ab686dbf07"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_mqtt_jll.jl/releases/download/aws_c_mqtt-v0.13.0+0/aws_c_mqtt.v0.13.0.x86_64-linux-gnu.tar.gz"
 [[aws_c_mqtt]]
 arch = "x86_64"
-git-tree-sha1 = "13d09f44387401f72c3fe57ae25b9360edb2e81b"
+git-tree-sha1 = "01486d5a08a950c3752919c2f7aea31cd7858ebf"
 libc = "musl"
 os = "linux"
 
     [[aws_c_mqtt.download]]
-    sha256 = "712895658df602ca98935dc67093e53ef3d3d2b17f7887bde30a14e5cde62177"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_mqtt_jll.jl/releases/download/aws_c_mqtt-v0.12.3+0/aws_c_mqtt.v0.12.3.x86_64-linux-musl.tar.gz"
+    sha256 = "99d03924bcc484401787b2ad330c480d92214f853540cb1a18c6058de77e8085"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_mqtt_jll.jl/releases/download/aws_c_mqtt-v0.13.0+0/aws_c_mqtt.v0.13.0.x86_64-linux-musl.tar.gz"
 [[aws_c_mqtt]]
 arch = "x86_64"
-git-tree-sha1 = "9927765e761b57f58cf2bc6055a37225794a92fd"
+git-tree-sha1 = "885bf02f09caf838732767f2fe6cb4aeff538ce2"
 os = "freebsd"
 
     [[aws_c_mqtt.download]]
-    sha256 = "b48a0e65bf8d80b2ae7de1e115e7731055589c280395b473ac68dbc70e0ff122"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_mqtt_jll.jl/releases/download/aws_c_mqtt-v0.12.3+0/aws_c_mqtt.v0.12.3.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "757dc77fad8b86f418b48f13191e3512eff60c56f9c3331129b769d865544543"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_mqtt_jll.jl/releases/download/aws_c_mqtt-v0.13.0+0/aws_c_mqtt.v0.13.0.x86_64-unknown-freebsd.tar.gz"
 [[aws_c_mqtt]]
 arch = "x86_64"
-git-tree-sha1 = "453762849ba3b93a723943c0cd881a64c0dab5eb"
+git-tree-sha1 = "3eddcd8337051c5ab470c49e37fb4ee76b939cb2"
 os = "windows"
 
     [[aws_c_mqtt.download]]
-    sha256 = "ad83f061cdd0a11a30a2e1b3f2955d276187de062617d20d848150399f1b19c7"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_mqtt_jll.jl/releases/download/aws_c_mqtt-v0.12.3+0/aws_c_mqtt.v0.12.3.x86_64-w64-mingw32.tar.gz"
+    sha256 = "41df40348388772688b4ba74dbf34ab5ca7302487231fa1377b748d683cc44fc"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_mqtt_jll.jl/releases/download/aws_c_mqtt-v0.13.0+0/aws_c_mqtt.v0.13.0.x86_64-w64-mingw32.tar.gz"
