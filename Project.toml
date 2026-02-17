@@ -1,6 +1,6 @@
 name = "aws_c_mqtt_jll"
 uuid = "35636aaa-5d3a-56eb-bfb5-a154ce8a9530"
-version = "0.13.4+0"
+version = "0.14.0+0"
 
 [deps]
 aws_c_http_jll = "3254fc65-9028-534d-aa9d-d76d128babc6"
